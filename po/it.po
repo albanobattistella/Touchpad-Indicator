@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: touchpad-indicator 2.0.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-15 12:48+0200\n"
-"PO-Revision-Date: 2013-03-14 07:43+0000\n"
-"Last-Translator: Milo Casagrande <milo.casagrande@gmail.com>\n"
+"PO-Revision-Date: 2020-02-04 21:43+0100\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -40,47 +40,48 @@ msgstr "Disabilita il touchpad quando il mouse è collegato"
 
 #: src/preferences_dialog.py:191
 msgid "I declare that there are no mice plugged in"
-msgstr ""
+msgstr "Dichiaro che non ci sono mouse collegati"
 
 #: src/preferences_dialog.py:192
 msgid ""
 "If Touchpad Indicator is not re-enabling the touchpad when you unplug your "
 "mouse, it might help to unplug all mice and click on this"
 msgstr ""
+"Se l'indicatore del touchpad non riattiva il touchpad quando si scollega il"
+"mouse, potrebbe essere utile scollegare tutti i mouse e fare clic su questo"
 
 #: src/preferences_dialog.py:199
-#, fuzzy
 msgid "On Touchpad Indicator starts:"
-msgstr "Abilita il touchpad al log in"
+msgstr "All'avvio dell'indicatore touchpad:"
 
 #: src/preferences_dialog.py:205 src/preferences_dialog.py:222
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 #: src/preferences_dialog.py:209 src/preferences_dialog.py:226
-#, fuzzy
 msgid "Enable touchpad"
 msgstr "Abilita il touchpad"
 
 #: src/preferences_dialog.py:213 src/preferences_dialog.py:230
-#, fuzzy
 msgid "Disable touchpad"
 msgstr "Disabilita il touchpad"
 
 #: src/preferences_dialog.py:216
 #, fuzzy
 msgid "On Touchpad Indicator ends:"
-msgstr "indicatore del Touchpad"
+msgstr "Quando l'indicatore del Touchpad termina:"
 
 #: src/preferences_dialog.py:234
 msgid "Disable touchpad on typing"
-msgstr ""
+msgstr "Disabilita il touchpad durante la digitazione"
 
 #: src/preferences_dialog.py:238
 msgid ""
 "Milliseconds to wait after the last key\n"
 "press before enabling the touchpad"
 msgstr ""
+"Millisecondi da attendere dopo l'ultima key\n"
+"premi prima di abilitare il touchpad"
 
 #: src/preferences_dialog.py:249
 msgid "General options"
@@ -100,106 +101,104 @@ msgstr "Attiva le notifiche"
 
 #: src/preferences_dialog.py:279
 msgid "Touchpad configuration"
-msgstr ""
+msgstr "Configurazione del touchpad"
 
 #: src/preferences_dialog.py:291
 msgid "Natural scrolling?"
-msgstr ""
+msgstr "Scrolling naturale?"
 
 #: src/preferences_dialog.py:305 src/preferences_dialog.py:479
 #: src/preferences_dialog.py:514
-#, fuzzy
 msgid "Touchpad speed?"
-msgstr "Touchpad disabilitato"
+msgstr "Velocità del touchpad?"
 
 #: src/preferences_dialog.py:313 src/preferences_dialog.py:489
 msgid "Two finger scrolling?"
-msgstr ""
+msgstr "Scrolling con due dita?"
 
 #: src/preferences_dialog.py:321 src/preferences_dialog.py:500
 msgid "Edge scrolling?"
-msgstr ""
+msgstr "Scrolling bordo?"
 
 #: src/preferences_dialog.py:329
 msgid "Circular scrolling?"
-msgstr ""
+msgstr "Scrolling circolare"
 
 #: src/preferences_dialog.py:340
 msgid "Simulation"
-msgstr ""
+msgstr "Simulazione"
 
 #: src/preferences_dialog.py:344
 msgid "Right top corner"
-msgstr ""
+msgstr "Angolo in alto a destra"
 
 #: src/preferences_dialog.py:349 src/preferences_dialog.py:366
 #: src/preferences_dialog.py:383 src/preferences_dialog.py:400
 #: src/preferences_dialog.py:417 src/preferences_dialog.py:435
 #: src/preferences_dialog.py:453
-#, fuzzy
 msgid "Disable"
-msgstr "Disabilita il touchpad"
+msgstr "Disabilita"
 
 #: src/preferences_dialog.py:350 src/preferences_dialog.py:367
 #: src/preferences_dialog.py:384 src/preferences_dialog.py:401
 #: src/preferences_dialog.py:418 src/preferences_dialog.py:436
 #: src/preferences_dialog.py:454
 msgid "Left button"
-msgstr ""
+msgstr "Pulsante sinistro"
 
 #: src/preferences_dialog.py:351 src/preferences_dialog.py:368
 #: src/preferences_dialog.py:385 src/preferences_dialog.py:402
 #: src/preferences_dialog.py:419 src/preferences_dialog.py:437
 #: src/preferences_dialog.py:455
 msgid "Middle button"
-msgstr ""
+msgstr "Pulsante centrale"
 
 #: src/preferences_dialog.py:352 src/preferences_dialog.py:369
 #: src/preferences_dialog.py:386 src/preferences_dialog.py:403
 #: src/preferences_dialog.py:420 src/preferences_dialog.py:438
 #: src/preferences_dialog.py:456
 msgid "Right button"
-msgstr ""
+msgstr "Pulsante destro"
 
 #: src/preferences_dialog.py:361
 msgid "Right bottom corner"
-msgstr ""
+msgstr "Angolo in basso a destra"
 
 #: src/preferences_dialog.py:378
 msgid "Left top corner"
-msgstr ""
+msgstr "Angolo superiore sinistro"
 
 #: src/preferences_dialog.py:395
 msgid "Left bottom corner"
-msgstr ""
+msgstr "Angolo inferiore sinistro"
 
 #: src/preferences_dialog.py:412
 msgid "One finger tap"
-msgstr ""
+msgstr "Tocco con un dito"
 
 #: src/preferences_dialog.py:430
 msgid "Two finger tap"
-msgstr ""
+msgstr "Tocco con due dita"
 
 #: src/preferences_dialog.py:448
 msgid "Three finger tap"
-msgstr ""
+msgstr "Tocco con tre dita"
 
 #: src/preferences_dialog.py:466
 msgid "Driver: Synaptics"
-msgstr ""
+msgstr "Driver: Synaptics"
 
 #: src/preferences_dialog.py:471
 msgid "Tapping?"
-msgstr ""
+msgstr "Toccare?,"
 
 #: src/preferences_dialog.py:510
 msgid "Driver: Libinput"
-msgstr ""
+msgstr "Driver: Libinput"
 
 #: src/preferences_dialog.py:523
 msgid "Driver: Evdev"
-msgstr ""
+msgstr "Driver: Evdev"
 
 #: src/preferences_dialog.py:528
 msgid "Theme"
@@ -210,7 +209,6 @@ msgid "Select theme"
 msgstr "Seleziona il tema"
 
 #: src/preferences_dialog.py:656
-#, fuzzy
 msgid "This shortcut <Control> + <Alt> +"
 msgstr "Questa scorciatoia <Control> + <Alt> + "
 
@@ -241,7 +239,7 @@ msgstr "Touchpad disabilitato"
 
 #: src/touchpadindicator.py:434
 msgid "Project page"
-msgstr ""
+msgstr "Pagina del progetto"
 
 #: src/touchpadindicator.py:439
 msgid "Get help online..."
@@ -257,19 +255,19 @@ msgstr "Segnala un problema..."
 
 #: src/touchpadindicator.py:455
 msgid "El atareao"
-msgstr ""
+msgstr "El atareao"
 
 #: src/touchpadindicator.py:460
 msgid "Follow me in Twitter"
-msgstr ""
+msgstr "Seguimi su Twitter"
 
 #: src/touchpadindicator.py:465
 msgid "Follow me in Google+"
-msgstr ""
+msgstr "Seguimi su Google+"
 
 #: src/touchpadindicator.py:470
 msgid "Follow me in Facebook"
-msgstr ""
+msgstr "Seguomi su Facebook"
 
 #: src/touchpadindicator.py:503
 msgid "About"
